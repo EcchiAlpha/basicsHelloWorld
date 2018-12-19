@@ -1,5 +1,9 @@
 public class HelloWorld{
+    private int i;
 public HelloWorld(){
-system.out.print("Noob");
+i = 0;
  }    
+ public int setI(){
+     this.i=i;
+ }
 }
